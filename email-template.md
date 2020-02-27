@@ -1,6 +1,6 @@
 Hello,
 
-Here is the list of options for the next movie night on Wednesday <>:
+Here is the list of options for the next movie night on Thursday <>:
 
 * [](https://www.imdb.com/title/<>/)
 * [](https://www.imdb.com/title/<>/)
